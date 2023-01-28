@@ -2,11 +2,11 @@
 
 Greetings!
 
-We’re Rishav Singh, Rohan Saha & Souvik Karmakar of the Department of Electrical Engineering [B.Tech’2020-24], Indian Institute of Technology, (Banaras Hindu University) Varanasi. 
+We’re **Rishav Singh, Rohan Saha & Souvik Karmakar** of the Department of Electrical Engineering [B.Tech’2020-24], Indian Institute of Technology, (Banaras Hindu University) Varanasi. 
 
 This is the README.doc for this Drive : [Event Detection in a Power Microgrid using Deep Learning-EE272 Exploratory Project-RishavRohanSouvik](https://drive.google.com/drive/u/0/folders/1wpXDCADdWD2Fe8DU9PiHuKPPv2UQasTg)
 
-This Drive contains all the Resources utilized in our Exploratory Project EE272 - Event Detection in a Power Microgrid using Deep Learning. The purpose of this README.doc is to familiarize the user/viewer with this Drive & its Contents, so they can understand our Project better.
+This Drive contains all the Resources utilized in our **Exploratory Project EE272 - Event Detection in a Power Microgrid using Deep Learning**. The purpose of this README.doc is to familiarize the user/viewer with this Drive & its Contents, so they can understand our Project better.
 
 Contents of this Drive :
 
