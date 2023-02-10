@@ -10,7 +10,7 @@ This Drive contains all the Resources utilized in our **Exploratory Project EE27
 
 Contents of this Drive :
 
-[1]. Exploratory Project PDF - [Event Detection in a Power Microgrid using Deep Learning-EE272 Exploratory Project-RishavRohanSouvik.pdf](https://drive.google.com/file/d/1IXftfSVIdYrEPWaLrF8Y_U6P-kM1PCSN/view?usp=sharing) <br />
+[1]. Project Report PDF - [Event Detection in a Power Microgrid using Deep Learning-EE272 Exploratory Project-RishavRohanSouvik.pdf](https://drive.google.com/file/d/1IXftfSVIdYrEPWaLrF8Y_U6P-kM1PCSN/view?usp=sharing) <br />
 This PDF contains all of our Ideas, Approaches, Reasoning & Models. We’ve explained our Entire Project, Models & Codes in detail and this PDF was pitched in front of a Panel of 3 Professors from the Department of Electrical Engineering, IIT(BHU), Varanasi, for Evaluation.
 
 
@@ -43,14 +43,14 @@ This Folder contains all the Research Papers we’ve referred to during our Proj
 
 Links of all Resources/References :
 
-[1]. Simplified Model of a Small Scale Micro-Grid on MATLAB
+[1]. [Simplified Model of a Small Scale Micro-Grid on MATLAB](https://in.mathworks.com/help/physmod/sps/ug/simplified-model-of-a-small-scale-micro-grid.html)
 
 [2]. Dataset Obtained from MATLAB Micro-Grid Model by introducing Sudden Changes in Isec & PL using Circuit Breakers- <br />
-      (2i).  RawDataset.xlsx <br />
-      (2ii). FeaturesToBeTrained.xlsx <br />
+      (2i).  [RawDataset.xlsx](https://docs.google.com/spreadsheets/d/1YRUouKg4cD4PYKkASUq43ByURBd_EbN1/edit#gid=1799157963) <br />
+      (2ii). [FeaturesToBeTrained.xlsx](https://docs.google.com/spreadsheets/d/1ZsXs6r1DfwzMroQjvIK66KqZx9k8W-sC/edit#gid=1513894284) <br />
 
 [3]. Artificial Neural Network [ANN] Model Codebase -  <br />
-      Exploratory Project Code SRR.ipynb
+      [Exploratory Project Code SRR.ipynb](https://colab.research.google.com/drive/1LAXLkLMtPfHzqVCW8vYS669WBf4wNQ1F#scrollTo=NiVH4IDc8R3H)
 
 [4]. Research Papers relevant to our Project-
       (4i). Artificial Neural Network Based Fault Detection and Fault Location in the DC Microgrid <br />
@@ -60,5 +60,5 @@ Links of all Resources/References :
       (4v). Deep reinforcement learning for energy management in a microgrid with flexible demand <br />
 
 [5]. Drive Link with all the Resources Compiled (README.doc, Codebase, Simulink Model, Papers, etc.) <br />
-Event Detection in a Power Microgrid using Deep Learning-EE272 Exploratory Project-RishavRohanSouvik
+[Event Detection in a Power Microgrid using Deep Learning-EE272 Exploratory Project-RishavRohanSouvik](https://drive.google.com/drive/u/0/folders/1wpXDCADdWD2Fe8DU9PiHuKPPv2UQasTg)
 
